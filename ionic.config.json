@@ -1,5 +1,7 @@
 {
   "name": "nitrogeno",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
