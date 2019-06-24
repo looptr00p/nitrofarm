@@ -52,7 +52,7 @@ export class Tab1Page {
 
   options1 = {
     title: {
-      text: 'Indice de nitrogeno en el cultivo'
+      text: 'Índice de nitrógeno en el cultivo'
     },
     tooltip: {
       trigger: 'axis',
@@ -147,7 +147,7 @@ export class Tab1Page {
       message: '¿Deseas cerrar sesión?',
       buttons: [
         {
-          text: 'Cancel',
+          text: 'Cancelar',
           role: 'cancel',
           cssClass: 'primary',
           handler: (blah) => {

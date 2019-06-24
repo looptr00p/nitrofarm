@@ -19,7 +19,7 @@ export class HistoryPage implements OnInit {
   async alertHistory() {
     const alert = await this.alertController.create({
       header: 'Detalle del historial',
-      message: 'La pagina de detalle está en proceso, da una vuelta por el campo y vuelve.',
+      message: 'La página de detalle está en proceso, da una vuelta por el campo y vuelve.',
       buttons: ['OK']
     });
 
